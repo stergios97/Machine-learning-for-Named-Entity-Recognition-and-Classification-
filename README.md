@@ -1,4 +1,4 @@
-# Machine learning for Named Entity Recognition and Classification (A project in the context of "Machine Learning for NLP" course)
+# Machine learning for Named Entity Recognition and Classification (A project in the context of "Machine Learning for NLP" course.)
 
 ## Overview
 
