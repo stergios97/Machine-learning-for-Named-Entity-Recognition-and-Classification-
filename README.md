@@ -2,7 +2,7 @@
 
 ## Overview
 
-This file provides tools for extracting, analyzing, and exploring Named Entity Recognition (NER) data from CoNLL files. The code covers aspects such as Exploratory Data Analysis (EDA), Data Extraction, Data Preprocessing, Feature Exploration,  Model Evaluation, Hyperparameter Tuning, and Feature Ablation.
+This file provides tools for extracting, analyzing, and exploring Named Entity Recognition (NER) using the CoNLL dataset. The code covers aspects such as Exploratory Data Analysis (EDA), Data Extraction, Data Preprocessing, Feature Exploration,  Model Evaluation, Hyperparameter Tuning, and Feature Ablation.
  The README below will guide you through the code and provide instructions for using it.
 
 ## Dependencies
